@@ -1,2 +1,2 @@
 # gatsby-bnv-auth
-Getting BNV Authentication to work through a Gatsby test harness.
+Getting BNV Auth0 authentication to work through a Gatsby test harness.
